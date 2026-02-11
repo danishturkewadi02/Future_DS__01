@@ -1,5 +1,5 @@
 ## Project Overview
-This project focuses on analyzing retail sales data using Excel/WPS. The dataset was cleaned and transformed to analyze revenue trends, top-selling products, customer behavior, and regional performance. An interactive dashboard was created using pivot tables, slicers, and KPIs to support data-driven decision-making.
+This project focuses on analyzing retail sales data using Excel. The dataset was cleaned and transformed to analyze revenue trends, top-selling products, customer behavior, and regional performance. An interactive dashboard was created using pivot tables, slicers, and KPIs to support data-driven decision-making.
 
 ## Key Insights
 - Sales show strong seasonality, with peak revenue occurring in the final quarter of the year.
@@ -9,6 +9,6 @@ This project focuses on analyzing retail sales data using Excel/WPS. The dataset
 - Average Order Value remains relatively stable, indicating consistent purchasing behavior.
 
 ## Tools Used
-- Excel / WPS Spreadsheets
+- Excel  Spreadsheets
 - Pivot Tables & Charts
 - Slicers and KPI Dashboard
